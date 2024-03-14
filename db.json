@@ -1,0 +1,213 @@
+{
+  "users": [
+    {
+      "username": "phungngocthong",
+      "password": "ph32302",
+      "fullname": "Phùng Ngọc Thông",
+      "phone": "0374004785",
+      "id": "7395"
+    },
+    {
+      "id": "83d2",
+      "username": "vuxuanhuong",
+      "password": "ph01111",
+      "fullname": "Vũ xuân Hướng",
+      "phone": "098765565"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 14 Quốc Tế",
+      "spice": "64GB",
+      "price": 100,
+      "star": 4.3,
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 100
+        },
+        {
+          "size": "216",
+          "price": 100
+        },
+        {
+          "size": "512",
+          "price": 100
+        }
+      ],
+      "mota": "Shockproof case designed for iPhone 14 Pro Max and iPhone 14 Max 6.7 inch, sturdy and shockproof and dust proof case for iPhone 14 Pro Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://www.digitaltrends.com/wp-content/uploads/2022/10/iphone-14-pro-max-hero-photo.jpg?resize=625%2C417&p=1"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 13 Quốc Tế",
+      "spice": "64GB",
+      "price": 100,
+      "star": 4.5,
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 150
+        },
+        {
+          "size": "216",
+          "price": 250
+        },
+        {
+          "size": "512",
+          "price": 350
+        }
+      ],
+      "mota": "Shockproof case designed for iPhone 13 Pro Max and iPhone 13 Max 6.7 inch, sturdy and shockproof and dust proof case for iPhone iPhone 13 Pro Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://product.hstatic.net/1000370129/product/hinh_iphone-13-pro-max-den_9c1c7f83d96f4f7a9892eacada41e8df_master.png"
+    },
+    {
+      "id": "9136",
+      "name": "Iphone 15",
+      "spice": "64GB",
+      "price": 200,
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 200
+        },
+        {
+          "size": "132GB",
+          "price": 300
+        },
+        {
+          "size": "1T",
+          "price": 400
+        }
+      ],
+      "star": 4.7,
+      "mota": "Shockproof case designed for iPhone 15 Pro Max and iPhone 15 Max 6.7 inch, sturdy and shockproof and dust proof case for iPhone 15 Pro Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://cdn.xtmobile.vn/vnt_upload/news/09_2023/28/hinh-anh-mo-hop-iphone-15-pro-max-titan-tu-nhien-xtmobile.jpg"
+    }
+  ],
+  "spdaxem": [
+    {
+      "id": "1",
+      "name": "Iphone 14 Quốc Tế",
+      "spice": "64GB",
+      "price": 100,
+      "star": 4.3,
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 100
+        },
+        {
+          "size": "216",
+          "price": 100
+        },
+        {
+          "size": "512",
+          "price": 100
+        }
+      ],
+      "mota": "Shockproof case designed for iPhone 14 Pro Max and iPhone 14 Max 6.7 inch, sturdy and shockproof and dust proof case for iPhone 14 Pro Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://www.digitaltrends.com/wp-content/uploads/2022/10/iphone-14-pro-max-hero-photo.jpg?resize=625%2C417&p=1"
+    },
+    {
+        "id": "3",
+        "name": " Iphone 11 PLUS",
+        "spice": "128GB",
+        "price": 150,
+        "star": 4.9,
+        "mota": "Shockproof case designed for iPhone xs MAX Pro Max and iPhone XS MAX Max 6.7 inch, sturdy and shockproof and dust proof case for Iphone 11 PLUS, anti-yellowing hard back, military grade drop protection",
+        "uri": "https://shopdunk.com/images/thumbs/0012124_iphone-8-plus.png",
+        "sizeOrder": [
+          {
+            "size": "64GB",
+            "price": 100
+          },
+          {
+            "size": "128GB",
+            "price": 250
+          },
+          {
+            "size": "512GB",
+            "price": 300
+          }
+        ]
+      },
+    {
+      "id": "9136",
+      "name": "Iphone 15",
+      "spice": "64GB",
+      "price": 200,
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 200
+        },
+        {
+          "size": "132GB",
+          "price": 300
+        },
+        {
+          "size": "1T",
+          "price": 400
+        }
+      ],
+      "star": 4.7,
+      "mota": "Shockproof case designed for iPhone 15 Pro Max and iPhone 15 Max 6.7 inch, sturdy and shockproof and dust proof case for iPhone 15 Pro Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://cdn.xtmobile.vn/vnt_upload/news/09_2023/28/hinh-anh-mo-hop-iphone-15-pro-max-titan-tu-nhien-xtmobile.jpg"
+    }
+  ],
+  "sanphamhot": [
+    {
+      "id": "1",
+      "name": "Iphone 8 Plus",
+      "spice": "128GB",
+      "price": 80,
+      "star": 4.9,
+      "mota": "Shockproof case designed for iPhone 8 Pro Max and iPhone 8 Max 6.7 inch, sturdy and shockproof and dust proof case for Iphone 8 Plus, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://shopdunk.com/images/thumbs/0012124_iphone-8-plus.png",
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 40
+        },
+        {
+          "size": "128GB",
+          "price": 80
+        },
+        {
+          "size": "512GB",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": " Iphone Xs Max",
+      "spice": "128GB",
+      "price": 200,
+      "star": 4.9,
+      "mota": "Shockproof case designed for iPhone xs MAX Pro Max and iPhone XS MAX Max 6.7 inch, sturdy and shockproof and dust proof case for Iphone Xs Max, anti-yellowing hard back, military grade drop protection",
+      "uri": "https://static.wixstatic.com/media/c00fea_4813121a3f98454bb28345c854656d19~mv2.png/v1/fill/w_490,h_735,al_c,q_90,enc_auto/c00fea_4813121a3f98454bb28345c854656d19~mv2.png",
+      "sizeOrder": [
+        {
+          "size": "64GB",
+          "price": 100
+        },
+        {
+          "size": "128GB",
+          "price": 200
+        },
+        {
+          "size": "512GB",
+          "price": 400
+        }
+      ]
+    }
+   
+  ],
+
+  "favovite": [
+  
+  ]
+}
